@@ -4,7 +4,7 @@ My aim is to make people's lives better by developing useful systems
 
 - 👀 I’m interested in web development, also fancy learning ML and neural networks somewhere in the future.
 - 🌱 Now I practise in enterprise backend development with Java/Kotlin and Spring Boot.
-- 🎓 My current goals are: Kafka, Kubernetes, 
+- 🎓 My current goals are: Kafka, Kubernetes, Spring Cloud
 - 📫 How to reach me: sinitsynme@outlook.com
 
 <!---
