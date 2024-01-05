@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 ## Project management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![allure](https://img.shields.io/badge/allure-74f29c?style=for-the-badge)
 
 For PET-projects I use:
 
