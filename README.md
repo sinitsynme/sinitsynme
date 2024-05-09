@@ -23,12 +23,13 @@ You can click the Preview link to take a look at your changes.
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/SPRING%20CLOUD-b2da3e?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Testing essentials
-![JUnit5](https://img.shields.io/badge/JUnit5-cc2737?style=for-the-badge)
+![JUnit5 Badge](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=for-the-badge)
 ![testcontainers](https://img.shields.io/badge/testcontainers-3c939e?style=for-the-badge)
-![cucumber](https://img.shields.io/badge/cucumber-208c3f?style=for-the-badge)
+![Cucumber Badge](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=fff&style=for-the-badge)
 
 ## Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,10 +40,15 @@ You can click the Preview link to take a look at your changes.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## BPMN
+![Camunda Badge](https://img.shields.io/badge/Camunda-FC5D0D?logo=camunda&logoColor=fff&style=for-the-badge)
+
 ## AWS Infrastructure
 ![Yandex object storage](https://img.shields.io/badge/Yandex%20object%20storage-b2daed?style=for-the-badge) (As an analog for Amazon S3)
 
-## Frontend (a bit)
+## Frontend
+I possess some basics in frontend development. Use it a bit in my pet projects. 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -55,7 +61,6 @@ You can click the Preview link to take a look at your changes.
 
 For PET-projects I use:
 
-![image](https://github.com/sinitsynme/sinitsynme/assets/72615475/018b4a45-31c6-4840-9b5e-a5bd1af7328d)
-
+![Yandex Cloud Badge](https://img.shields.io/badge/Yandex%20Cloud-5282FF?logo=yandexcloud&logoColor=fff&style=for-the-badge)
 ![Yandex tracker](https://img.shields.io/badge/Yandex%20tracker-b2daed?style=for-the-badge)
 ![Yandex wiki](https://img.shields.io/badge/Yandex%20wiki-b2daed?style=for-the-badge)
