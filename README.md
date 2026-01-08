@@ -2,8 +2,12 @@
 
 My aim is to make people's lives better by developing useful systems
 
+My CV: https://sinitsynme.github.io
+
 - 👀 I’m interested in web development, also fancy learning ML and neural networks somewhere in the future.
-- 📫 How to reach me: sinitsynme@outlook.com
+- 📫 How to reach me:
+- Email: mesinitsyn@yandex.ru
+- LinkedIn: www.linkedin.com/in/sinitsynme
 
 <!---
 sinitsynme/sinitsynme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
